@@ -8,7 +8,7 @@
 ---
 
 ### 📜 Languages I’ve Learned:
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,cs,html,css)]() 
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,html,css)]() 
 
 ---
 
